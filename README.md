@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Gabriella Tabet" width="150" style="float: right; margin-left: 20px; border-radius: 50%;">
+<img src="profile.jpg" alt="Gabriella Tabet" width="150"; border-radius: 50%;">
 
 Email: gablimat [at] ucm [dot] com | gabriellatabett [at] gmail [dot] com  
 [Personal website](https://gabriellatabett.wordpress.com/home/)  
