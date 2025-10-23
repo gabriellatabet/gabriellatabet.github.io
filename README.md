@@ -43,14 +43,14 @@ Zapata-Ríos G, Andreazzi CS, Carnaval AC, Doria CRC, Duponchelle F, Flecker A, 
 
 <img src="profile.jpg" alt="Gabriella LT Cruz" width="150" style="border-radius: 50%;">
 
-Email: gablimat [at] ucm [dot] com | gabriellatabett [at] gmail [dot] com
-[Personal website](https://gabriellatabett.wordpress.com/home/)
-[Google scholar](https://scholar.google.com/citations?user=1qaThTYAAAAJ&hl=en)
-[Orcid](https://orcid.org/0000-0002-4961-1297)
-[ResearchGate](https://www.researchgate.net/profile/Gabriella-Tabet-Cruz)
-[LinkedIn](http://www.linkedin.com/in/gabriellatabet)
-[Brazilian CV (Lattes)](http://lattes.cnpq.br/0868161924412747)
-[Figshare](https://figshare.com/authors/Gabriella_L_Tabet_Cruz/12902756)
+Email: gablimat [at] ucm [dot] com | gabriellatabett [at] gmail [dot] com  
+[Personal website](https://gabriellatabett.wordpress.com/home/)  
+[Google scholar](https://scholar.google.com/citations?user=1qaThTYAAAAJ&hl=en)  
+[Orcid](https://orcid.org/0000-0002-4961-1297)  
+[ResearchGate](https://www.researchgate.net/profile/Gabriella-Tabet-Cruz)  
+[LinkedIn](http://www.linkedin.com/in/gabriellatabet)  
+[Brazilian CV (Lattes)](http://lattes.cnpq.br/0868161924412747)  
+[Figshare](https://figshare.com/authors/Gabriella_L_Tabet_Cruz/12902756)  
 
 </td>
 </tr>
