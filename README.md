@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+  
 ## Hi there 👋
 
 I’m a researcher exploring parasite–host interactions in wildlife, with a focus on how ecological, phylogenetic, and climatic factors shape these relationships. I also work on organizing biological databases and applying multi-criteria and network-based analytical tools to extract integrated ecological, environmental, and health insights.
@@ -33,3 +37,21 @@ WINCK, G.; **CRUZ, G. L. T.**; ANDREAZZI, C. S.; KREMPSER, E.; D'ANDREA, P. S. L
 
 [Chapter 3: Biological Diversity and Ecological Networks in the Amazon](https://doi.org/10.55161/DGNM5984)
 Zapata-Ríos G, Andreazzi CS, Carnaval AC, Doria CRC, Duponchelle F, Flecker A, Guayasamín JM, Heilpern S, Jenkins CN, Maldonado C, Meneghelli D, Miranda G, Moraes R M, Silman M, Silveira MAPA, **Tabet G**, Trujillo F, Ulloa Ulloa C, Arieira J. In: Nobre C. et al. (Eds). Amazon Assessment Report 2021. United Nations Sustainable Development Solutions Network, New York, USA. Available from https://www.theamazonwewant.org/spa-reports/.
+
+</td>
+<td>
+
+<img src="profile.jpg" alt="Gabriella LT Cruz" width="150" style="border-radius: 50%;">
+
+Email: gablimat [at] ucm [dot] com | gabriellatabett [at] gmail [dot] com
+[Personal website](https://gabriellatabett.wordpress.com/home/)
+[Google scholar](https://scholar.google.com/citations?user=1qaThTYAAAAJ&hl=en)
+[Orcid](https://orcid.org/0000-0002-4961-1297)
+[ResearchGate](https://www.researchgate.net/profile/Gabriella-Tabet-Cruz)
+[LinkedIn](http://www.linkedin.com/in/gabriellatabet)
+[Brazilian CV (Lattes)](http://lattes.cnpq.br/0868161924412747)
+[Figshare](https://figshare.com/authors/Gabriella_L_Tabet_Cruz/12902756)
+
+</td>
+</tr>
+</table>
