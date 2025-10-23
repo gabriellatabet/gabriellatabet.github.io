@@ -41,7 +41,7 @@ Zapata-Ríos G, Andreazzi CS, Carnaval AC, Doria CRC, Duponchelle F, Flecker A, 
 </td>
 <td>
 
-<img src="profile.jpg" alt="Gabriella LT Cruz" width="150" style="border-radius: 50%;">
+<img src="profile.gif" alt="Gabriella LT Cruz" width="150" style="border-radius: 50%;">
 
 Email: gablimat [at] ucm [dot] com | gabriellatabett [at] gmail [dot] com  
 [Personal website](https://gabriellatabett.wordpress.com/home/)  
