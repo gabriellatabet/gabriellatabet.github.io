@@ -27,7 +27,7 @@ B. S. Biology — Federal University of Rio de Janeiro, Rio de Janeiro, Brazil
 
 ## Publications
 
-[Panorama da Saúde Silvestre: Uma síntese de agentes zoonóticos em mamíferos silvestres no Brasil, com recomendações para tomadores de decisão no contexto da Uma só Saúde] (https://arca.fiocruz.br/items/bcd58575-f578-4706-afad-aae18d0a7f7c) WINCK, G. R.; ROCHA, F. L.; **CRUZ, G. L. T.**; ANDREAZZI, M. A. R.; BACELLAR, A. E. F.; BRUM, W. ; BUENO, M. G.; COSTA, ANA PAULA L.; FERNANDES, J.; FERNANDES-FERREIRA, H.; GENTILE, ROSANA; GONCALVES-OLIVEIRA, J. ; GONCALVES, M. C.; KREMPSER, E.; LACERDA, A. C. F.; LAVOCAT, M.; NASCIMENTO, J. L.; OLIVEIRA, R.; SAMPAIO, R.; ANDREAZZI, C. S.; D’ANDREA, P. S. 1. ed. Rio de Janeiro: Fiocruz/IOC, 2025. v. 1. 146p.
+[Panorama da Saúde Silvestre: Uma síntese de agentes zoonóticos em mamíferos silvestres no Brasil, com recomendações para tomadores de decisão no contexto da Uma só Saúde](https://arca.fiocruz.br/items/bcd58575-f578-4706-afad-aae18d0a7f7c) WINCK, G. R.; ROCHA, F. L.; **CRUZ, G. L. T.**; ANDREAZZI, M. A. R.; BACELLAR, A. E. F.; BRUM, W. ; BUENO, M. G.; COSTA, ANA PAULA L.; FERNANDES, J.; FERNANDES-FERREIRA, H.; GENTILE, ROSANA; GONCALVES-OLIVEIRA, J. ; GONCALVES, M. C.; KREMPSER, E.; LACERDA, A. C. F.; LAVOCAT, M.; NASCIMENTO, J. L.; OLIVEIRA, R.; SAMPAIO, R.; ANDREAZZI, C. S.; D’ANDREA, P. S. 1. ed. Rio de Janeiro: Fiocruz/IOC, 2025. v. 1. 146p.
 
 [Trait profiles and taxonomy predict zoonotic microparasite occurrences on potential hosts and geographic distribution](https://doi.org/10.1016/j.pecon.2025.10.003)  
 **CRUZ, G.L.T.**; WINCK, G.; ANDREAZZI, C. S. Perspectives in Ecology and Conservation, 2025.
